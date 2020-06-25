@@ -8,3 +8,8 @@ En formation, je vais apprendre:
 - JAVASCRIPT 
 - HTML 
 - CSS 
+
+Je sais: 
+- Courir
+- Nager 
+- Sauter 
